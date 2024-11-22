@@ -5,6 +5,10 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 ## 🔥 Featured Project: **Pyst-it**
 **Pyst-it** is a fun, customizable version of the classic **Post-it**, with support for multiple notes, random colors, and more! 🗒️
 
+<p align="center">
+  <img src="Images/logo.png" alt="Imagem">
+</p>
+
 ✨ **Features**:
 - 📌 Multiple notes in different colors
 - 💾 Auto-save
