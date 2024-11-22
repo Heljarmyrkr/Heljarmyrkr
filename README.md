@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Heljarmyrkr
 
-Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Pyst-it**, a fun and customizable **Post-it** app for the desktop! 🚀
+Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Pyst-it** 🚀
 
 ## 🔥 Featured Project: **Pyst-it**
 **Pyst-it** is a fun, customizable version of the classic **Post-it**, with support for multiple notes, random colors, and more! 🗒️
