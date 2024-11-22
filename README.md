@@ -24,7 +24,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 
 ## 🛠️ Tools & Technologies Used
 - **Python** 🐍
-- 
+
 <h2 align="left">I code with</h2>
 
 ###
