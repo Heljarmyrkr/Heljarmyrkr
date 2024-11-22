@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 **Pyst-it** is a fun, customizable version of the classic **Post-it**, with support for multiple notes, random colors, and more! 🗒️
 
 <p align="center">
-  <img src="Images/logo.png" alt="Imagem">
+  <img src="logo.png" alt="Imagem">
 </p>
 
 ✨ **Features**:
