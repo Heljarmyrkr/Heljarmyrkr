@@ -30,9 +30,4 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 
 ---
 
-## 📄 License
-This project is licensed under the **Custom License** - see the [LICENSE.txt](./LICENSE.txt) file for more details.
-
----
-
 🌟 **Thanks for visiting my profile!** 🌟
