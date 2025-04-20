@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Workote** 🚀
 
 ## 🔥 Featured Project, releasing tomorrow! (April 21): **Workote**
-**Pyst-it** is a fun, customizable version of the classic **Post-it**, with support for multiple notes, random colors, and more! 🗒️
 
 <p align="center">
   <img src="logo.png" alt="Imagem">
