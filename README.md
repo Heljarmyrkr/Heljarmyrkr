@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Heljarmyrkr
 
-Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Pyst-it** 🚀
+Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Workote** 🚀
 
-## 🔥 Featured Project: **Pyst-it**
+## 🔥 Featured Project, releasing tomorrow! (April 21): **Workote**
 **Pyst-it** is a fun, customizable version of the classic **Post-it**, with support for multiple notes, random colors, and more! 🗒️
 
 <p align="center">
@@ -10,20 +10,17 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 </p>
 
 ✨ **Features**:
-- 📌 Multiple notes in different colors
-- 💾 Auto-save
-- 🌈 Random and customizable colors
-- 📝 Support for `.txt` and `.json` formats
-
-💡 **What's coming next**:
-- ✍️ Customizable fonts
-- ✏️ Drawing mode
-- 🔔 Reminders and notifications
+- 📌 Pin Notes
+- 🖼️ Image Support
+- 🔔 Reminders & Notifications
 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Python** 🐍
+
+- **Electron** ⚡
+- **HTML, CSS, JavaScript** 🌐 
+- **Node.js** 🟢 
 
 <h2 align="left">I code with</h2>
 
