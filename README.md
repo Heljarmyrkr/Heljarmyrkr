@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 ## 🔥 Featured Project, releasing tomorrow! (April 21): **Workote**
 
 <p align="center">
-  <img src="Images/logo.png" alt="Imagem" width="400">
+  <img src="logo.png" alt="Imagem" width="400">
 </p>
 
 ✨ **Features**:
