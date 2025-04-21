@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Workote** 🚀
 
 ## 🔥 Featured Project, releasing tomorrow! (April 21): **Workote**
+Where work meets notes
 
 <p align="center">
   <img src="logo.png" alt="Imagem" width="400">
@@ -12,6 +13,7 @@ Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and so
 - 📌 Pin Notes
 - 🖼️ Image Support
 - 🔔 Reminders & Notifications
+- ✨ Multiple Notes
 
 ---
 
