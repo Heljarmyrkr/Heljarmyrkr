@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 👨‍💻 I'm passionate about technology and software development. Currently, I'm working on **Workote** 🚀
 
-## 🔥 Featured Project, releasing tomorrow! (April 21): **Workote**
+## 🔥 Featured Project: **Workote**
 Where work meets notes
 
 <p align="center">
